@@ -96,6 +96,28 @@ return [
 ];
 ```
 
+### Enabled Dashboard Module
+
+For Enabled the [Dashboard Module](https://cornernote.github.io/yii2-dashboard/)
+configured, please execute the follow command:
+
+```
+$ ./yii migrate --migrationPath=@cornernote/dashboard/migrations
+```
+
+This way you are created the ``dashboard`` and ``dashboard_panel`` tables used for **Dashboard Module**.
+
+## Running Project migrations
+
+The Project migrations create the initial data the ``dashboard`` and ``dashboard_panel`` tables for use this Webapp,
+please execute the follow command:
+
+```
+$ ./yii migrate
+```
+
+This way you are inserted data for ``dashboard`` and ``dashboard_panel`` tables used for **Dashboard Module**.
+
 **NOTES:**
 - Yii won't create the database for you, this has to be done manually before you can access it.
 - Check and edit the other files in the `config/` directory to customize your application as required.
