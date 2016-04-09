@@ -11,6 +11,11 @@ features to your application.
 Also includes [yii2-dashboard](https://cornernote.github.io/yii2-dashboard/)
 configured with data demo enabled, this is a Yii2 extension for create Dashboard.
 
+The following a screenshot of yii2-dashboard extension:
+
+![Dashboard View](https://cloud.githubusercontent.com/assets/51875/8636670/21febed6-28ae-11e5-8fc7-dc57e5bbc422.png "Dashboard View")
+
+
 [![Latest Stable Version](https://poser.pugx.org/yiisoft/yii2-app-basic/v/stable.png)](https://packagist.org/packages/yiisoft/yii2-app-basic)
 [![Total Downloads](https://poser.pugx.org/yiisoft/yii2-app-basic/downloads.png)](https://packagist.org/packages/yiisoft/yii2-app-basic)
 [![Build Status](https://travis-ci.org/yiisoft/yii2-app-basic.svg?branch=master)](https://travis-ci.org/yiisoft/yii2-app-basic)
